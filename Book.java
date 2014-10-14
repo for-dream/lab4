@@ -62,4 +62,8 @@ public class Book {
 	public String getCountry(){
 		return Country;
 	}
+	public void setCountry(String Country){
+		this.Country=Country;
+	}
+	//lalala here
 }
